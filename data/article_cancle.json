@@ -1,0 +1,5 @@
+{
+  "url":"https://www.lagou.com/jobs/mList.html",
+  "headers":{"Conent-Type":"value","Authorization":"Beare token信息"},
+  "status_code":206
+}
